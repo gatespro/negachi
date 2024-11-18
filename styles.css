@@ -68,7 +68,7 @@ nav ul li a:hover {
 
 /* Hero Section Styling */
 .hero {
-    background-image: url('https://github.com/gatespro/negachi/blob/main/main-background.png'); /* Ganti dengan gambar latar belakang yang relevan */
+    background-image: url('/main-background.png'); /* Ganti dengan gambar latar belakang yang relevan */
     background-size: cover;
     background-position: center;
     height: 100vh;
